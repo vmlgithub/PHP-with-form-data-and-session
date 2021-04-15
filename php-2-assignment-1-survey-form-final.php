@@ -34,7 +34,7 @@
 <body>
     <div class="container">
         <form action='submitted.php' method='post'>
-            <p><label class="name">Your Name: <input type="text" name="firstname" id="firstname"></label></p>
+            <p><label class="name">Your Name: </label><input type="text" name="firstname" id="firstname"></p>
             <p><label>Dojo Location: </label>
                 <select name="location" id="location">
                     <option value="empty">Choose</option>
